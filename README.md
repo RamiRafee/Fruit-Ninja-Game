@@ -6,7 +6,7 @@ This is a simple implementation of the popular Fruit Ninja game using JavaFX. Th
 
 To get started with the game, you will need to have Java and JavaFX installed on your computer. You can download the latest version of Java from the official website, while JavaFX can be downloaded as a standalone library or as part of the Java Development Kit (JDK).
 
-Once you have Java and JavaFX installed, you can clone the repository to your local machine and import the project into your preferred Java IDE. The project uses Maven for dependency management, so you will need to configure your IDE to use Maven.
+Once you have Java and JavaFX installed, you can clone the repository to your local machine and import the project into your preferred Java IDE. 
 
 ## Usage
 
